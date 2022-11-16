@@ -1,5 +1,6 @@
 # beer-analysis-sql
----- create table in postgresql -----
+       
+       ---- create table in postgresql -----
 
       create table beer_reviews(
       brewery_id float8
